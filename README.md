@@ -69,7 +69,8 @@ Zomato-Feedback-Analyzer/
 ├── requirements.txt
 └── README.md
 ``
-#####  Live: https://zomato-feedback-analyzer-7fx9edpwenx74tnhd7hvni.streamlit.app/
+#####  Live:
+https://zomato-feedback-analyzer-7fx9edpwenx74tnhd7hvni.streamlit.app/
 
 ` 
 ---
